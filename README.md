@@ -54,7 +54,7 @@ Random Image from Validation Set:
 
 ![Output Example 1](predictions_test1.png)
 
-![Output Example 2](predictions_test2.png)
+![Output Example 2](predictions_test3.png)
 
 The image shows:
 - Detected objects with bounding boxes
